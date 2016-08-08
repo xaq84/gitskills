@@ -1,3 +1,4 @@
-Git Bug Demo.
+Git
 Hello,World!
 Modify it in ThinkPad_R400 and ThinkStaion.
+Modify it in MacBook Air.
